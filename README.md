@@ -11,7 +11,7 @@ An end-to-end analytics engineering case study building a scalable data infrastr
 ## 📊 Executive Dashboard Preview
 > **[🔗 View Live Power BI Interactive Dashboard](YOUR_POWER_BI_SHARE_LINK_HERE)**
 
-*(Drop a screenshot of your beautiful, polished stacked dashboard right here!)*
+[ecom - Power BI.pdf](https://github.com/user-attachments/files/28528637/ecom.-.Power.BI.pdf)
 
 ---
 
